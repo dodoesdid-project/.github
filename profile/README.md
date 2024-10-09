@@ -5,7 +5,7 @@
 <p align="middle">친구들과 함께하는 1일1다짐 두더지(Do Does Did)</p>
 <p align="center">
 <img src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
-<img src="https://img.shields.io/badge/-introduction-green?style=flat&logo=google-chrome&logoColor=white" />
+<a href="https://slashpage.com/dodoesdid" target="_blank"><img src="https://img.shields.io/badge/-introduction-green?style=square&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ## 👉 Project Introduction
@@ -15,6 +15,12 @@
 이를 지키는 과정을 통해 성취감을 느낄 수 있습니다.<br/>
 친구들과 함께 서로의 다짐을 응원하고 동기부여를 받으며<br/>
 매일의 다짐을 이뤄나갈 수 있도록 두더지와 함께 실천해봐요! Do Does Did! </p>
+
+<a href="https://www.dodoesdid.site/" target="_blank">👉두더지 홈페이지</a> <br/>
+<a href="https://slashpage.com/dodoesdid" target="_blank">👉두더지 소개페이지</a> <br/>
+
+<a href="https://github.com/dodoesdid-project/dodoesdid-client" target="_blank">👉두더지 프론트엔드 레포지토리</a> <br/>
+<a href="https://github.com/dodoesdid-project/dodoesdid-server" target="_blank">👉두더지 백엔드 레포지토리</a> <br/>
 
 ## 🏃 Teams
 <div align="center">
