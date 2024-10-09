@@ -23,7 +23,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |  <img style="width: 150px;" src="https://github.com/user-attachments/assets/583ca82e-814e-43c5-9e59-179e55caf542" />  |  <img style="width: 150px;" src="https://github.com/user-attachments/assets/aeecd739-59fc-44a7-994b-8a5a5cd5f4b9" />  |  <img style="width: 150px;" src="https://github.com/user-attachments/assets/b74bac0e-e703-4df2-9480-905bb3ba4fac" />  |  <img style="width: 150px;" src="https://github.com/user-attachments/assets/619197bf-c557-4fad-a3e6-b65d80f48792" />  | <img style="width: 150px;" src="https://github.com/user-attachments/assets/ce51eb50-05e0-4f8a-bcbb-d48be9cd231d" /> |
 |손예리|최린|김소현|정찬영|오승빈|
-|   [@Yeri]()   |   [@RinChoi-o]()   |   [@5o-hyun](https://github.com/5o-hyun)   |   [@Jeongchanyeong](https://github.com/Jeongchanyeong)    |  [@OhSeungBeen](https://github.com/OhSeungBeen)     |
+|   [@Yeri]()   |   [@RinChoi-o](https://www.behance.net/rin2401bd34)   |   [@5o-hyun](https://github.com/5o-hyun)   |   [@Jeongchanyeong](https://github.com/Jeongchanyeong)    |  [@OhSeungBeen](https://github.com/OhSeungBeen)     |
 
 </div>
 
