@@ -8,7 +8,7 @@
 <a href="https://slashpage.com/dodoesdid" target="_blank"><img src="https://img.shields.io/badge/-introduction-green?style=square&logo=google-chrome&logoColor=white" /></a>
 </p>
 
-## 👉 Project Introduction
+## 🪕 Project Introduction
 
 <p align="middle">두더지는 유저가 매일 이루고 싶은 작은 목표나 다짐을 기록하고 실천하도록 돕는 서비스 입니다.<br/>
 이 서비스를 통해 유저들은 거창한 목표를 세우기보다는 오늘 하루 동안 실천할 수 있는 현실적인 다짐을 설정하고,<br/>
@@ -16,7 +16,7 @@
 친구들과 함께 서로의 다짐을 응원하고 동기부여를 받으며<br/>
 매일의 다짐을 이뤄나갈 수 있도록 두더지와 함께 실천해봐요! Do Does Did! </p>
 
-<a href="https://www.dodoesdid.site/" target="_blank">👉두더지 홈페이지</a> <br/>
+<a href="https://www.dodoesdid.site/" target="_blank">👉두더지 서비스 바로가기</a> <br/>
 <a href="https://slashpage.com/dodoesdid" target="_blank">👉두더지 소개페이지</a> <br/>
 
 <a href="https://github.com/dodoesdid-project/dodoesdid-client" target="_blank">👉두더지 프론트엔드 레포지토리</a> <br/>
