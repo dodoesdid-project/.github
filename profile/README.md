@@ -83,10 +83,13 @@
 | -------------------------------------------------------------------------- |
 | <img src="https://github.com/user-attachments/assets/d767bf4a-d9ec-4ca3-923b-bd2650d63d19" alt="dodoesdid" width="250" style="margin:0 auto;"> |
 
-| 계정관리                          | 프로필편집                                   |  로그아웃                           |  회원탈퇴                    |
-| --------------------------------- | ------------------------------------------- | ------------------------------------ | ------------------------------- |
-| <img src="https://github.com/user-attachments/assets/5e3c8349-060a-489b-9b66-6c2c1812d2ec" alt="mypage" width="250" style="margin:0 auto;"> | <img src="https://github.com/user-attachments/assets/c5a24861-5226-49a3-9545-939cb7390087" alt="mypage" width="250" style="margin:0 auto;"> | <img src="https://github.com/user-attachments/assets/db869fab-7051-475a-839d-098298cafcf2" alt="mypage" width="250" style="margin:0 auto;"> | <img src="https://github.com/user-attachments/assets/cdbe967f-0287-4bc0-930a-d35929113177" alt="mypage" width="250" style="margin:0 auto;"> |
+| 계정관리                          | 프로필편집                                   |  
+| --------------------------------- | ------------------------------------------- |
+| <img src="https://github.com/user-attachments/assets/5e3c8349-060a-489b-9b66-6c2c1812d2ec" alt="mypage" width="250" style="margin:0 auto;"> | <img src="https://github.com/user-attachments/assets/c5a24861-5226-49a3-9545-939cb7390087" alt="mypage" width="250" style="margin:0 auto;"> |
 
+|  로그아웃                           |  회원탈퇴                    |
+| --------------------------------- | ------------------------------------------- |
+| <img src="https://github.com/user-attachments/assets/db869fab-7051-475a-839d-098298cafcf2" alt="mypage" width="250" style="margin:0 auto;"> | <img src="https://github.com/user-attachments/assets/cdbe967f-0287-4bc0-930a-d35929113177" alt="mypage" width="250" style="margin:0 auto;"> |
 
 
 ## 🐾💡 Intro
